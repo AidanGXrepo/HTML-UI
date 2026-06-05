@@ -2,7 +2,7 @@
         <title>Backgrounds</title>
         <style> /* customize here */
             body {
-                background-color: rgb(45, 115, 196);
+                background-color: lightblue;
             }
 
             h3 {
