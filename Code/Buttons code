@@ -1,6 +1,4 @@
-<head>
-        <title>Buttons</title>
-        <style> /* customize here */
+        <style>
             h3 {
                 display: block;
                 width: 800px;
@@ -38,4 +36,3 @@
                 transform: scale(1.06);
             }
         </style>
-    </head>
